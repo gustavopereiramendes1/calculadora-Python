@@ -2,5 +2,7 @@ $ cat .gitattributes
 
 *.tex linguist-language=Python
 
+*.toc linguist-language=Python
+
 *.html linguist-language=Python
 
