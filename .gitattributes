@@ -1,4 +1,5 @@
 $ cat .gitattributes
+
 *.tex linguist-language=Python
 
 *.html linguist-language=Python
